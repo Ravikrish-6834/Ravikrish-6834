@@ -9,7 +9,7 @@
 <p align="center">
   <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Java🐍+;Front+End+Projects+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Java+;+Projects+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;"
             alt="Typing SVG"
         />
     </a>
@@ -29,11 +29,11 @@
 
 <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
 
-<h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
+<h1 align="center">Hi 👋 I'm  RAVI KUMAR K</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 Java 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+![](https://img.shields.io/badge/JAVA%20Developer%20%2F%20AWS%20CLOUD%20%2F%20PRACTITIONER%20%2F%20%20%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
@@ -71,7 +71,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,selenium,vscode,androidstudio,html,css,bots,docker,eclipse,powershell,linux,wordpress,git,discord,powershell,visualstudio,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i= java,java spring boot, java spring mvc, aws,html,css,eclipse,linux,git,visualstudio," />
   </a>
 </p>  
  
@@ -88,7 +88,7 @@ Languages & Tools:
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ravikrish-6834&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Ravikrish-6834/github-readme-activity-graph)
+[![RAVI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ravikrish-6834&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Ravikrish-6834/github-readme-activity-graph)
 
   
  ### ✍️ Random Dev Quotes
